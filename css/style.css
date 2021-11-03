@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    background-color: blue;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 6em;
+    background-color: chartreuse;
+    font-family: sans-serif;
+}
+
+h2{
+    color: wheat;
+    text-align: center;
+    font-size: 2em;
+    background-color: tomato;
+    font-family: sans-serif;
+}
